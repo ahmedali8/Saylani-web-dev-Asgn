@@ -1,0 +1,50 @@
+label {
+    padding-right: 100px;
+    
+}
+
+form {
+    background-color: rgb(70, 8, 129);
+    color: cornsilk;
+}
+
+table {
+    border-spacing: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-self: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+ margin-left: 450px;
+ margin-right: 500px;
+}
+
+h1 { color: rgb(70, 8, 129);
+    text-align: center;
+    text-decoration: underline;
+}
+
+img.tickmark {
+    margin-top: 200px;
+    margin-left: 570px;
+    margin-right: 200px;
+}
+
+h1.thankyou {
+    text-align: center;
+    color: green;
+}
+
+h2.thankyou {
+    text-align: center;
+    color: blueviolet;
+}
+
+a {
+    text-align: center;
+}
